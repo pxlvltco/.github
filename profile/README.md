@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://pixelvault.co/banner/direct.png"/>
+  <img src="banner.png"/>
 </div>
 
 <h1 align="center">
